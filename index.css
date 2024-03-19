@@ -1,0 +1,82 @@
+/* mystyle.css */
+body {
+    background-color: #1A2238;
+    
+}
+h1 {
+    color: #ffffff;
+    margin-left: 20px;
+    font-family: "Arial", sans-serif;
+
+}
+.bigtitles {
+    color: #9DAAF2;
+    margin-left: 20px;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+}
+.subtitle {
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'arial', sans-serif;
+    color: #00daff ;
+    font-size: 26px;
+
+}
+.mainsite {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #1A2238;
+    border: 2px solid #ffffff;
+    border-radius: 15px;
+    color: #ffffff;
+    font-size: 24px;
+}
+.bookstyle {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #1A2238;
+    border: 2px solid #ffffff;
+    border-radius: 15px;
+    color: #ffffff;
+    font-size: 24px;
+}
+.journalstyle {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #1A2238;
+    border: 2px solid #ffffff;
+    border-radius: 15px;
+    color: #ffffff;
+    font-size: 24px;
+}
+.footerstyle {
+    background-color: #D3EEDD; 
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+a {
+    color: #FF6A3D;
+    text-decoration: none;
+    text-underline-offset: 5px;
+}
+a:visited {
+    color: #FF6A3D;
+    text-decoration: none;
+}
+a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
